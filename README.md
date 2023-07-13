@@ -1,1 +1,3 @@
-# gabriel-curso-dev-php
+# Curso dev PHP Gabriel
+
+Curso ministrado pelo Gabriel CTO da Construsite  
