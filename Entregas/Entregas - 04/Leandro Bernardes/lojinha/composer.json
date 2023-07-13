@@ -1,0 +1,17 @@
+{
+    "name": "desenv-h110m/lojinha",
+    "autoload": {
+        "psr-4": {
+            "Leandro\\App\\":"src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "leandro",
+            "email": "leandro@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
