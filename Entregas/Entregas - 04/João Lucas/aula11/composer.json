@@ -1,0 +1,15 @@
+{
+    "name": "desenvolvimento/aula11",
+    "autoload": {
+        "psr-4": {
+            "Joaolucas\\Frete\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joao Lucas",
+            "email": "joaolucas@gmail.com"
+        }
+    ],
+    "require": {"phpmailer/phpmailer": "^6.5"}
+}
