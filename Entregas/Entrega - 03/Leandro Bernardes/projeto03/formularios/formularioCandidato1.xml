@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<formularioConstrusite>
+  <usuario>
+    <nome>Leandro</nome>
+    <telefone>994923533</telefone>
+    <email>leandro@gmail.com</email>
+    <cidade>282</cidade>
+    <estado>3</estado>
+    <resumo_profissional>Trabalhou na Vitae Center</resumo_profissional>
+    <idiomas>ingles espanhol</idiomas>
+    <trabalho_presencial>V</trabalho_presencial>
+  </usuario>
+</formularioConstrusite>

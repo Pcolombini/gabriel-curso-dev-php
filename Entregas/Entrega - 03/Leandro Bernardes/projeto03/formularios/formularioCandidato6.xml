@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<formularioConstrusite>
+  <usuario>
+    <nome>Vinicius</nome>
+    <telefone>11112222</telefone>
+    <email>vini@hotmail.com</email>
+    <cidade>1566</cidade>
+    <estado>2</estado>
+    <resumo_profissional>Buscando Estagio</resumo_profissional>
+    <idiomas>ingles espanhol</idiomas>
+    <trabalho_presencial>F</trabalho_presencial>
+  </usuario>
+</formularioConstrusite>

@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(97, 191, 235);
+}
+
+.title-form{
+    text-align: center;
+    margin: 0px 0px 30px 0px;
+}
+
+.box-form{
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px rgb(88, 165, 228);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+}
+
+.error{
+    color: red;
+}
+
+.form-hide{
+    display: none;
+}

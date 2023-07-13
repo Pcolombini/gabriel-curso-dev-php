@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<formularioConstrusite>
+  <usuario>
+    <nome>Davi</nome>
+    <telefone>994443333</telefone>
+    <email>davi@gmail.com</email>
+    <cidade>698</cidade>
+    <estado>3</estado>
+    <resumo_profissional>Trabalhou em petroleolandia</resumo_profissional>
+    <idiomas>ingles </idiomas>
+    <trabalho_presencial>F</trabalho_presencial>
+  </usuario>
+</formularioConstrusite>

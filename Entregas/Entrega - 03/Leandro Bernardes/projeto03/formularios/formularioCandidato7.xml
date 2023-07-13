@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<formularioConstrusite>
+  <usuario>
+    <nome>Luiz Otavio</nome>
+    <telefone>88887777</telefone>
+    <email>luiz@g.com</email>
+    <cidade>3185</cidade>
+    <estado>3</estado>
+    <resumo_profissional>Trabalhando na empresa petrobras</resumo_profissional>
+    <idiomas>ingles </idiomas>
+    <trabalho_presencial>V</trabalho_presencial>
+  </usuario>
+</formularioConstrusite>

@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+
+body {
+    background-color: rgb(148, 255, 255);
+}
+.cadastro {
+    margin-top: 10px;
+    font-size: 30px;
+    padding-left: 230px;
+    padding-right: 230px;
+    letter-spacing: 5px;
+    background-image: url(https://wallpaperaccess.com/full/202976.jpg);
+    border-radius: 10px;
+
+}
+
+table {
+    border: rgb(0, 0, 0);
+}
+
+th {
+    font-size: 20px;
+    background-color: white;
+}
+
+td {
+    text-align: center;
+    color: rgb(136, 61, 255);
+    background-color: white;
+}
+
+button {
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.editar {
+    color: rgb(0, 255, 13);
+}
+
+.excluir {
+    color: red;
+}
+

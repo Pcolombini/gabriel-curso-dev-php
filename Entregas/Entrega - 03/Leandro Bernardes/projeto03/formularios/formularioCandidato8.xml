@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<formularioConstrusite>
+  <usuario>
+    <nome>Leticia</nome>
+    <telefone>66665555</telefone>
+    <email>let@gg.com</email>
+    <cidade>1237</cidade>
+    <estado>2</estado>
+    <resumo_profissional>Trabalhou de maneira autonoma</resumo_profissional>
+    <idiomas>ingles </idiomas>
+    <trabalho_presencial>F</trabalho_presencial>
+  </usuario>
+</formularioConstrusite>
