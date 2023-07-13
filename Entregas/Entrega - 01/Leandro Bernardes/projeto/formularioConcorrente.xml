@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<formularioConstrusite>
+  <usuario>
+    <nome>Leandro</nome>
+    <telefone>31994923533</telefone>
+    <email>leandro@outlook.com</email>
+    <cidade>Contagem</cidade>
+    <estado>MG</estado>
+    <resumo_profissional>Vitae Center</resumo_profissional>
+    <idiomas>
+      <ingles>sim</ingles>
+      <espanhol>sim</espanhol>
+    </idiomas>
+    <disponibilidade>nao</disponibilidade>
+  </usuario>
+</formularioConstrusite>
