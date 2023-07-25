@@ -11,7 +11,7 @@
         }
 
         .title{
-            font-size: 20pt !important;
+            font-size: 20pt;
         }
     </style>
 </head>
